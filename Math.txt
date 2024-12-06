@@ -1,0 +1,20 @@
+Math
+Q:What is the value of pi (π) to two decimal places
+A:3.14
+A:3.12
+A:3.88
+A:3.66
+CA:1
+Q:What is the result of 5 multiplied by 8
+A:40
+A:13
+A:35
+A:48
+CA:1
+Q:What is the square root of 64
+A:8
+A:6
+A:4
+A:10
+CA:1
+END_OF_QUIZ
